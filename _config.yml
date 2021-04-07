@@ -76,3 +76,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://beige-pluto-df7b5.netlify.app'
