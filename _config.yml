@@ -7,7 +7,7 @@ collections:
 color_scheme: light
 accent_color: pink
 header:
-  title: Dauerbaum
+  title: Dauerbaum®
   has_nav: true
   nav_links:
     - label: Baumplege
