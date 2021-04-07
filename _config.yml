@@ -10,7 +10,7 @@ header:
   title: Exto
   has_nav: true
   nav_links:
-    - label: Home
+    - label: Baumplege
       url: /
       style: link
     - label: Über
