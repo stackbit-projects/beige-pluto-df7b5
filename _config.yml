@@ -22,7 +22,7 @@ header:
     - label: About
       url: /about/
       style: link
-    - label: Contact
+    - label: Über
       url: /contact/
       style: link
 footer:
